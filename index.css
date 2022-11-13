@@ -1,0 +1,62 @@
+.orderedlistlikes{
+    background-color: yellowgreen ;
+    width: 20%;
+    padding: 10px;
+    margin: 30px;
+}
+
+.orderedlistlikes h4{
+    text-align: center;
+    color:red;
+    text-decoration: underline;
+    font-size: 20px;
+}
+#parent li {
+    color: grey;
+    font-size: 23px;
+}
+
+.orderedlistlikes #parent li.child4{
+    color:blue;
+    font-size: 20px;
+}
+#parent li.child5{
+    color:rgb(255, 0, 170);
+    font-size: 30px;
+}
+
+h4{
+    color:orange;
+    font-size: 25px;
+}
+div #line1 {
+    color: rgb(43, 159, 226);
+    font-size: 20px;
+}
+div .line2{
+    color: brown;
+    font-size: 20px;
+}
+div .line3{
+    color: rgb(42, 165, 83);
+    font-size: 20px;
+}
+
+div .line4{
+    color: rgb(42, 50, 165);
+    font-size: 20px;
+} 
+
+div .line5{
+    color: rgb(153, 165, 42);
+    font-size: 20px; 
+}
+div .one{
+    color: rgb(165, 42, 93);
+    font-size: 25px;
+}
+
+div #two{
+    color: rgb(38, 201, 5);
+    font-size: 25px;
+}
